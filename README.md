@@ -6,7 +6,7 @@ A documentation hub of hands-on sessions and beginner-friendly tutorials.
 
 🔗 **Live Site:** [sessions.justfahad.me](https://sessions.justfahad.me)
 
-![Sessions Website Preview](https://github.com/user-attachments/assets/58a7a528-a110-4afa-9c68-ab16be4782ab)
+![Sessions Website Preview](https://github.com/user-attachments/assets/0e084fb4-f9f3-4f22-8442-0bb2e828f3c9)
 ## Features
 
 - **Beginner-Friendly Tutorials** - Step-by-step guides with screenshots and explanations
