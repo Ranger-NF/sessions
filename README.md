@@ -1,13 +1,12 @@
 # Sessions by Fahad
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_BADGE_ID/deploy-status)](https://app.netlify.com/sites/YOUR_SITE_NAME/deploys)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/531a837e-e53c-42d9-823a-2679b798e168/deploy-status)](https://app.netlify.com/projects/fahad-sessions/deploys)
 
 A documentation hub of hands-on sessions and beginner-friendly tutorials.
 
 🔗 **Live Site:** [sessions.justfahad.me](https://sessions.justfahad.me)
 
-![Sessions Website Preview](https://example.com/path-to-your-preview-image.png)
-
+![Sessions Website Preview](https://github.com/user-attachments/assets/58a7a528-a110-4afa-9c68-ab16be4782ab)
 ## Features
 
 - **Beginner-Friendly Tutorials** - Step-by-step guides with screenshots and explanations
