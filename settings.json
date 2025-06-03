@@ -1,14 +1,29 @@
 {
-    "siteTitle": "My Project Title",
-    "siteDescription": "This is the description of my project title",
-    "author": "John Doe",
-    "faviconUrl": "/assets/myfavicon.png",
-    "blogTitle": "Blog",
-    "customLinks": [
-        {
-            "url": "https://github.com/ita-design-system/eleventy-libdoc",
-            "text": "GitHub"
-        }
-    ],
-    "editThisPageRootUrl": "https://github.com/ita-design-system/eleventy-libdoc/blob/main"
+  "siteTitle": "Sessions",
+  "siteDescription": "A learning hub of hands-on sessions and beginner-friendly tutorials.",
+  "author": "Mohammed Fahad",
+  "faviconUrl": "/assets/favicon.ico",
+  "customLinks": [
+    {
+      "url": "https://justfahad.me",
+      "text": "About Fahad"
+    },
+    {
+      "url": "https://github.com/ita-design-system/eleventy-libdoc",
+      "text": "GitHub"
+    }
+  ],
+  "tocEnabled": true,
+  "tocHtmlTags": ["h1", "h2"],
+  "tocMinTags": 1,
+  "hljsLanguages": [
+    "javascript",
+    "json",
+    "yaml",
+    "liquid",
+    "markdown",
+    "css",
+    "python"
+  ],
+  "editThisPageRootUrl": "https://github.com/Ranger-NF/sessions/"
 }
