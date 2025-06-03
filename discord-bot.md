@@ -2,12 +2,11 @@
 title: Build a Basic Discord Bot
 description: A beginner-friendly guide to building your first Discord bot using Python and Replit.
 layout: libdoc_page.liquid
-permalink: sessions/discord-bot/index.html
+permalink: discord-bot/index.html
 eleventyNavigation:
   key: Build a Discord Bot
 date: git Last Modified
 tags:
-  - session
   - discord
   - bot
 ---
