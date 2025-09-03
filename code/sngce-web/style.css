@@ -1,0 +1,61 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+main {
+    flex: 1;
+}
+
+header {
+    display: flex;
+    justify-content: flex-end;
+    padding: 30px;
+    gap: 25px;
+}
+
+footer {
+    display: flex;
+    justify-content: center;
+}
+
+main {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 30px;
+}
+
+#name {
+    font-size: 120px;
+}
+
+#tagline {
+    font-size: 64px;
+    font-weight: 100;
+}
+
+
+#main-pic {
+    border-radius: 10px;
+}
+
+.nav a {
+    color: black;
+    text-decoration: none;
+    font-size: 24px;
+    padding: 5px 15px;
+    transition: 0.25s background-color ease-in;
+}
+
+.nav a:hover {
+    background-color: black;
+    color: white;
+}
