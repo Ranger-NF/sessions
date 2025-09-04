@@ -2,7 +2,7 @@
 
 ![Preview](docs/site-preview.png)
 
-> ![NOTE]
+> [!NOTE]
 > The image used here is for educational purposes only! 😹
 
 Built using HTML, CSS & Basic JS
